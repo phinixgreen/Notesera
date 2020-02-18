@@ -1,13 +1,12 @@
-# Welcome to Notesera
+---
+title: My page
+layout: default
+---
 
-This is a home for my notes.
+# {{ page.title }}
 
-Click the Table of Contents to Get Started.
+Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
-## Table Of Contents
-
-### N01 Neuroscience
-
-|SL|File| Tags| Date Created|
-|--|--|--|--|
-|1|[Chapter 1 Part 1 of Neuroscience Past, Present, and Future](/Notes/N01_Neuroscience/20200217012401%20Neuroscience%20Past,%20Present,%20and%20Future/20200217012401%20Neuroscience%20Past,%20Present,%20and%20Future.md)|Neuroscience| 2020-02-17|
+<!--
+You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
+-->
