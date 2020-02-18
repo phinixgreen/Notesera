@@ -1,10 +1,11 @@
-# 20200217012401 Neuroscience: Past, Present, and Future
+----
+layout: post
+Title: Neuroscience Overview Part 1
+category: N01 Neuroscience
+tags: Neuroscience
+date: yyyy-mm-dd
+----
 
-Title: Neuroscience: Past, Present, and Future
-Created: Feb 17, 2020 at 1:24 AM
-Tags: ＃Neuroscience
-
-- - - -
 ## The Origins of Neuroscience
 
 ### View of the Brain in Ancient Greece
