@@ -39,12 +39,8 @@ Code Block
 
 > “Quote goes here” - Sayer  
 
-<!-- 
-
 Image Link ![Image Title](directory/image.png)
 File Link [File_Name](./directory/filename.file_ext)
-
--->
 
 ## Footer
 - References
