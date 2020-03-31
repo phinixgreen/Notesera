@@ -1,0 +1,66 @@
+* How to Take Smart Notes
+  :PROPERTIES:
+  :CUSTOM_ID: how-to-take-smart-notes
+  :END:
+
+** 10 Principles to Revolutionise Note-taking and Writing
+   :PROPERTIES:
+   :CUSTOM_ID: principles-to-revolutionise-note-taking-and-writing
+   :END:
+
+*** Principle 1: Writing is not the outcome of thinking. It is the
+medium in which thinking takes place
+    :PROPERTIES:
+    :CUSTOM_ID: principle-1-writing-is-not-the-outcome-of-thinking.-it-is-the-medium-in-which-thinking-takes-place
+    :END:
+
+Thinking requires writing in elaboration, like translating, rewriting,
+comparing and contrasting to describe the idea that we have come across.
+By elaborating the idea, in writing, we get deep into the topic itself
+
+*** Principle 2: Do your work as if writing is the only thing that matters
+    :PROPERTIES:
+    :CUSTOM_ID: principle-2-do-your-work-as-if-writing-is-the-only-thing-that-matters
+    :END:
+
+*** Principle 3: No one starts from scratch
+    :PROPERTIES:
+    :CUSTOM_ID: principle-3-no-one-starts-from-scratch
+    :END:
+
+
+*** Principle 4: Our tools and techniques are only as valuable as the workflow
+    :PROPERTIES:
+    :CUSTOM_ID: principle-4-our-tools-and-techniques-are-only-as-valuable-as-the-workflow
+    :END:
+
+*** Principle 5: Standardisation enables creativity
+    :PROPERTIES:
+    :CUSTOM_ID: principle-5-standardisation-enables-creativity
+    :END:
+
+*** Principle 6: Our work only gets better when exposed to high quality
+feedback
+    :PROPERTIES:
+    :CUSTOM_ID: principle-6-our-work-only-gets-better-when-exposed-to-high-quality-feedback
+    :END:
+
+*** Principle 7: Work on multiple simultaneous projects
+    :PROPERTIES:
+    :CUSTOM_ID: principle-7-work-on-multiple-simultaneous-projects
+    :END:
+
+*** Principle 8: Organise your notes by context
+    :PROPERTIES:
+    :CUSTOM_ID: principle-8-organise-your-notes-by-context
+    :END:
+
+*** Principle 9: Always follow the most interesting path
+    :PROPERTIES:
+    :CUSTOM_ID: principle-9-always-follow-the-most-interesting-path
+    :END:
+
+*** Principle 10: Save contradictory ideas
+    :PROPERTIES:
+    :CUSTOM_ID: principle-10-save-contradictory-ideas
+    :END:
