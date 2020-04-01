@@ -46,4 +46,3 @@ The Brain has —
 
 These patterns divides the cerebrum into `Lobes`
 
-[File Management](./Instructions/20200217011101_Instructions_for_File_Management.html)
